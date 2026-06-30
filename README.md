@@ -24,7 +24,8 @@ Benyamin.Gharri.ir/
 ├── fonts.org.css         # Original font-face declarations
 ├── EB_Garamond/          # Self-hosted EB Garamond font files (.ttf)
 └── img/
-    └── wikipedia.png     # Favicon
+    ├── wikipedia.png     # Favicon
+    └── index.html     # Back to ../index.html
 ```
 
 ## 🚀 Usage
