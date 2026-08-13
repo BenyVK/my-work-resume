@@ -58,3 +58,5 @@ This project uses the [EB Garamond](https://github.com/octaviopardo/EBGaramond12
 ## 📄 License
 
 No license is required for this project and you can use this code.
+
+## Close Page
